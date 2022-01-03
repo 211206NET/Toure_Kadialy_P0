@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BusinessLogic\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BusinessLogic\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BusinessLogic\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BusinessLogic\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BusinessLogic\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\Revature\Toure_Kadialy_P0\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache

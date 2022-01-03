@@ -1,0 +1,5 @@
+C:\Users\User\downloads\revature\toure_kadialy_p0\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\User\downloads\revature\toure_kadialy_p0\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\downloads\revature\toure_kadialy_p0\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\User\downloads\revature\toure_kadialy_p0\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\User\downloads\revature\toure_kadialy_p0\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache

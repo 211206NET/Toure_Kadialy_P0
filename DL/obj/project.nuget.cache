@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+i4WDl9pGUQibz4ZIkXH6q4zFMDzCFkyTkEaAZF2Z6zrp5Aqyku3K7FqsOSzYrQmYZ2xpSQJGJyB7709g8XwKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\Revature\\Toure_Kadialy_P0\\DL\\DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
