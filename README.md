@@ -1,3 +1,3 @@
-                                                                       Welcome to Coffee Mania
+                                                             Welcome to Coffee Mania
                                                                        
-                                                              *
+                                                              
